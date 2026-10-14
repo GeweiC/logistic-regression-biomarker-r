@@ -1,0 +1,18 @@
+
+# Coursework data
+/data/*.csv
+
+# Locally generated result tables
+/results/*.csv
+
+# R and RStudio local files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Renviron
+.Rprofile
+
+# Operating system files
+.DS_Store
+Thumbs.db
